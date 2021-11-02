@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nhap 2 so nguyen m,n", "nha
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tong tu 1 den k", "tong tu 1 den k\tong tu 1 den k.vcxproj", "{D388DADA-DC26-4D64-87E9-B94F594F6C8D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tong giai thua cua 2 so nguyen m,n", "tong giai thua cua 2 so nguyen m,n\tong giai thua cua 2 so nguyen m,n.vcxproj", "{2F920507-6889-4BBA-8B59-B64F9E33723D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{D388DADA-DC26-4D64-87E9-B94F594F6C8D}.Release|x64.Build.0 = Release|x64
 		{D388DADA-DC26-4D64-87E9-B94F594F6C8D}.Release|x86.ActiveCfg = Release|Win32
 		{D388DADA-DC26-4D64-87E9-B94F594F6C8D}.Release|x86.Build.0 = Release|Win32
+		{2F920507-6889-4BBA-8B59-B64F9E33723D}.Debug|x64.ActiveCfg = Debug|x64
+		{2F920507-6889-4BBA-8B59-B64F9E33723D}.Debug|x64.Build.0 = Debug|x64
+		{2F920507-6889-4BBA-8B59-B64F9E33723D}.Debug|x86.ActiveCfg = Debug|Win32
+		{2F920507-6889-4BBA-8B59-B64F9E33723D}.Debug|x86.Build.0 = Debug|Win32
+		{2F920507-6889-4BBA-8B59-B64F9E33723D}.Release|x64.ActiveCfg = Release|x64
+		{2F920507-6889-4BBA-8B59-B64F9E33723D}.Release|x64.Build.0 = Release|x64
+		{2F920507-6889-4BBA-8B59-B64F9E33723D}.Release|x86.ActiveCfg = Release|Win32
+		{2F920507-6889-4BBA-8B59-B64F9E33723D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
